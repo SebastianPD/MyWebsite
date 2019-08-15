@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://sebaspd.com/about-me.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/blog-list.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/blog-post-cornell.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/blog-post-northwestern.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/blog-post-website.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/contact-me.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/gallery.html</loc>
+    </url>
+    <url>
+        <loc>https://sebaspd.com/index.html</loc>
+    </url>
+</urlset>
